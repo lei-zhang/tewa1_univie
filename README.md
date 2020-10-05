@@ -1,4 +1,4 @@
-# TEWA 1 <img src="https://github.com/lei-zhang/tewa1_univie/raw/master/Thumbnail_tewa.png" align="right" width="300px">
+# TEWA 1 <img src="https://github.com/lei-zhang/tewa1_univie/blob/main/Thumbnail_tewa.png" align="right" width="300px">
 
 **TEWA (Theorie und Empirie wissenschaftlichen Arbeitens) 1 / Theory and Empirical Research 1**
 
